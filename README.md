@@ -45,7 +45,7 @@ The environment simulates resource scarcity and increasing complexity via a "Ris
 
 ## Execution and Performance
 The bot consistently hits scores of **250,000+** and has peaked above **300,000**.
-
+<img src="https://github.com/user-attachments/assets/dc8d520d-4563-4b61-bf1b-d929b7da1ed3" width="500">
 ### Controls:
 * **TAB**: Toggle rendering (disable for high-speed training).
 * **R**: Hard reset of the agent and weights.
